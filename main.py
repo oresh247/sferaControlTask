@@ -113,4 +113,4 @@ closeAllTaskInSprint(5)
 # Перенос подзадач с одного спринта на следующий
 # (только во время того, когда закрыт один спринт, но еще не открыт другой = среда).
 # date - Дата испонения, которая будет проставлена в подзадачах
-changeSubTaskSprintDueDate(oldSprint='4335', newSprint='4336', date="2025-03-26")
+#changeSubTaskSprintDueDate(oldSprint='4335', newSprint='4336', date="2025-03-26")
